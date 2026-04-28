@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.12",
+    "tailwindcss": "^4.2.4"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.105.0",
+    "axios": "^1.15.2",
+    "react-router-dom": "^7.14.2"
+  }
+}
